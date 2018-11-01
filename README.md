@@ -1,6 +1,9 @@
 = Project Euler
 
-Different implementation of each problems in different language:
+
+
+Different implementation of each problems from Euler Project
+(https://projecteuler.net/) in different language:
 
  - Erlang
  - Elixir
