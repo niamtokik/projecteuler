@@ -2,11 +2,13 @@
 
 Different implementation of each problems in different language:
 
- - Haskell
  - Erlang
- - Clojure
- - C
+ - Elixir
+ - Haskell
+ - LISP like (clojure/racket)
  - OCaml
+ - C
+ - Prolog (swiprolog, mercury)
 
 == Organization
 
@@ -15,4 +17,5 @@ Different implementation of each problems in different language:
 
 == Notes
 
-I started to solve problems 4 or 5 years ago to learn Erlang and Haskell.
+I started to solve problems 4 or 5 years ago to learn Erlang and
+Haskell.
